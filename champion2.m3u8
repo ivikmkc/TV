@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
-https://etslive-2-vidio-com.akamaized.net/exp=1583611935~acl=/hls-b/ingest_geo_6686_*/*~hmac=d96543e879b42388409e3656ba80f0a2555ddc58fcb3fef36a348e6a6f7cd507/hls-b/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583657405~acl=/hls-b/ingest_geo_6686_*/*~hmac=9a566f8878f3468b967b74242f7ad9a7059b994c88fd2f71d9ebb5379e4622da/hls-b/ingest_geo_6686_720p/index.m3u8
